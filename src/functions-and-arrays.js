@@ -138,6 +138,17 @@ const wordsCount = [
 	'disobedience',
 	'matter',
 ];
+function howManyTimes(arr, word){
+	let count = 0;
+	for ( parolla of arr ){
+		console.log(parolla, word)
+		if( parolla== word){
+			count ++
+		}
+	} 
+	return count 
+
+}
 
 // Iteration #8: Bonus
 
