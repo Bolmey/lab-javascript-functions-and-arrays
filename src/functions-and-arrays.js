@@ -91,6 +91,7 @@ const wordsUnique = [
 	'communion',
 	'simple',
 	'bring',
+	'bring',
 ];
 
 // function uniquifyArray(array) {
